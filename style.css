@@ -22,10 +22,6 @@
    display:none;
   }
 
-  section {
-    display: grid;
-  }
-
   .layer {
     background-size: auto;
     background-repeat: no-repeat;
@@ -158,11 +154,11 @@
       width: 50%;
     }
 
-    .details {
-      height: 800px;
+    .dark {
+      height: 150px;
       position: relative;
-      background: pink;
-      margin-top: -100px;
+      background: rgb(65, 20, 117);
+      text-align: center;
     }
 
 
